@@ -54,5 +54,5 @@ if model.predict([person_feature]) == 1:
     print("Bravo, Vous aurez survécu au naufrage du Titanic !")
 else:
     print("-"*60)
-    print("Dommage, Vous n'aurez pas survécu au naufrage du Titanic")
+    print("Dommage, Vous n'aurez pas survécu au naufrage du Titanic !")
 
